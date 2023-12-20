@@ -103,3 +103,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+python/
+inno-setup/
+.vs/
+release/
+build/
+output/
